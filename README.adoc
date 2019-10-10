@@ -11,7 +11,7 @@ This is the {url-antora}[Antora] user interface for bitmandu.com. It
 is a fork of the {url-project}[Antora Default UI].
 
 WARNING: Although I do occasionally pull changes from the master
-branch of {url-project}[antora-ui-default] to merge with my
+branch of {url-project}[antora-ui-default] and merge my
 customizations, this UI may be substantially behind the official
 Antora UI.
 
