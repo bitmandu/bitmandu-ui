@@ -65,5 +65,9 @@
 }
 
 .toolbar .edit-this-page a {
+  background: url(../img/edit.svg) no-repeat;
+  background-size: contain;
+  display: block;
+  text-indent: 1.5rem;
   color: var(--toolbar-muted-color);
 }
