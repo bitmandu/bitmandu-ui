@@ -32,5 +32,7 @@ Just replace `v1` in the URL with the https://github.com/bitmandu/bitmandu-ui/re
 
 == Copyright and License
 
+Copyright (C) 2017-present OpenDevise Inc. and the Antora Project.
+
 Use of this software is granted under the terms of the https://www.mozilla.org/en-US/MPL/2.0/[Mozilla Public License Version 2.0] (MPL-2.0).
 See link:LICENSE[] to find the full license text.
